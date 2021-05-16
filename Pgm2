@@ -1,0 +1,6 @@
+INSERT INTO employee (emp_id, name, address) VALUES 
+(004, 'Edwin', 'thrissur'), 
+(005, 'Jijo', 'palakkad')
+
+
+SELECT * FROM `employee` 
